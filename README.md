@@ -14,6 +14,6 @@ Estimate proper trajectory for the pitch angle while considering the gyro readin
 |    ├── Linear Regression.ipynp  <- contains LR ipynp notebook
 |    ├── Kalman Filter.ipynp      <- contains KF ipynp notebook
 | 
-├── case3.txt                     <- contains gyro data (pitch angle vs time)
+├── gyro_data.txt                 <- contains gyro data (pitch angle vs time)
 └── Readme.md
 ```
